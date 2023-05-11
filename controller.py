@@ -1,4 +1,4 @@
-# Server
+# Controller
 
 import socket
 import threading
